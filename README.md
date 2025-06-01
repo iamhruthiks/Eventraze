@@ -13,17 +13,7 @@
 
 A full-stack events application, developed with Next.js 14, provides a seamless platform for event management. Acting as a global hub, it highlights diverse events happening worldwide. With integrated Stripe payments, users can easily purchase tickets or create and manage their own events.
 
-# ⚙️ Tech Stack Used
-
-- Node.js
-- Next.js
-- TypeScript
-- TailwindCSS
-- Stripe
-- Zod
-- React Hook Form
-- Shadcn
-- uploadthing
+---
 
 ## 💡 Features
 
@@ -52,6 +42,22 @@ A full-stack events application, developed with Next.js 14, provides a seamless 
 - **Event Orders Management:** A comprehensive system to track and manage event-related transactions.
 
 - **Order Search & Tracking:** Quick and efficient search functionality to help users track their event orders with ease.
+
+---
+
+# ⚙️ Tech Stack Used
+
+- Node.js
+- Next.js
+- TypeScript
+- TailwindCSS
+- Stripe
+- Zod
+- React Hook Form
+- Shadcn
+- uploadthing
+
+---
 
 ## 🚀 Installation
 
@@ -117,6 +123,24 @@ NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
 npm start
 ```
 
+---
+
 ## 📜 Acknowledgements
 
 _This project was developed by JavaScript Mastery. I would like to extend my appreciation to them for crafting such an amazing project, which has been instrumental in equipping me with the necessary knowledge and skills to bring this application to life._
+
+---
+
+## 📸 Screenshots
+<img width="959" alt="1" src="https://github.com/user-attachments/assets/400a33ed-2981-4294-b2cf-56c94cd42f4f"><hr>
+<img width="959" alt="2" src="https://github.com/user-attachments/assets/79152f36-a7ed-4fc8-9877-a3f18f0e7902"><hr>
+<img width="959" alt="3" src="https://github.com/user-attachments/assets/a5ac2fc3-4944-470a-a6bb-d27fd12ff5ec"><hr>
+<img width="959" alt="4" src="https://github.com/user-attachments/assets/af061d41-3406-4d13-9249-6cec8fc6f06c"><hr>
+<img width="959" alt="5" src="https://github.com/user-attachments/assets/cc83b2b7-ebb5-4cee-8e68-5a8efade1ead"><hr>
+<img width="959" alt="6" src="https://github.com/user-attachments/assets/e75e6d7c-87d3-42d0-b600-25370de12a52"><hr>
+<img width="959" alt="7" src="https://github.com/user-attachments/assets/8a35684d-50b6-448f-a050-cb970145001e"><hr>
+<img width="959" alt="8" src="https://github.com/user-attachments/assets/0e921fb6-4223-454c-a8b1-bf49fd376e3c"><hr>
+<img width="959" alt="9" src="https://github.com/user-attachments/assets/99b91c41-aa19-4ce3-988d-a94443351c2c"><hr>
+<img width="959" alt="10" src="https://github.com/user-attachments/assets/6ecd210c-8a3f-4ebc-9e00-e0e5ac689956"><hr>
+<img width="959" alt="r1" src="https://github.com/user-attachments/assets/b2a8fa30-fbb2-40aa-921d-f278491c1dce"><hr>
+<img width="959" alt="r2" src="https://github.com/user-attachments/assets/7a3261ec-49f1-4017-ac8d-d750e755425c"><hr>
